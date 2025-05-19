@@ -84,13 +84,13 @@ This repository contains all materials related to the paper:
 ```mermaid
 flowchart TD
     A[Volumetry Paper]
-    A --> B[Data]
+    A --> B[**Data**]
     B --> B1[Training Masks]
     B --> B2[Auto Generated Masks]
     B2 --> B21[Edited Masks]
     B --> B3[.csv files]
     B3 --> B31[Final Data - .dmr files]
-    A --> C[Manuscript]
+    A --> C[**Manuscript**]
     C --> C1[Document]
     C --> C2[Images]
     C --> C3[Plots]
