@@ -77,8 +77,7 @@ This repository contains all materials related to the paper:
 
 ### 5. Data Handling and Analysis
 - All extracted features were organized per subject and kidney side (LK, RK, BK).
-- All extracted features were organized per subject and kidney side (LK, RK, BK).
-- Features were used for downstream statistical analysis or machine learning applications, depending on the study objective (e.g., disease classification, progression prediction).
+(work in progress..)
 
 ## File Organization
 
