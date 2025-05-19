@@ -53,18 +53,18 @@ This repository contains all materials related to the paper:
 #### 4.1 Scikit-image (in-house metrics computed using Scikit-image) 
 - **Library Used**: [Scikit-image](https://scikit-image.org/), an open-source Python library that provides a collection of image processing algorithms for scientific and biomedical applications.
 - **Shape Features**
-[Summary table](https://gitlab.com/JoaoPeriquito/volumetry_paper/-/wikis/In-house-features-using-Scikit-image)
+[Summary table](https://github.com/JoaoPeriquito/Volumetric-Paper/wiki/In-house-features-using-Scikit-image)
 #### 4.2 PyRadiomics
 - **Library Used**: [PyRadiomics](https://pyradiomics.readthedocs.io/), a Python package for extracting engineered features from medical images.
 - **Features Extracted**:
-  - **[Shape Features](https://pyradiomics.readthedocs.io/en/latest/features.html#module-radiomics.shape)**: volume, surface area, sphericity, elongation, etc. [Summary table](https://gitlab.com/JoaoPeriquito/volumetry_paper/-/wikis/PyRadiomics-shape-features)
+  - **[Shape Features](https://pyradiomics.readthedocs.io/en/latest/features.html#module-radiomics.shape)**: volume, surface area, sphericity, elongation, etc. [Summary table](https://github.com/JoaoPeriquito/Volumetric-Paper/wiki/PyRadiomics-shape-features)
   - **Texture Features**: derived from:
     - [GLCM](https://pyradiomics.readthedocs.io/en/latest/features.html#module-radiomics.glcm) (Gray Level Co-occurrence Matrix)
     - [GLRLM](https://pyradiomics.readthedocs.io/en/latest/features.html#module-radiomics.glrlm) (Gray Level Run Length Matrix)
     - [GLSZM](https://pyradiomics.readthedocs.io/en/latest/features.html#module-radiomics.glszm) (Gray Level Size Zone Matrix)
     - [NGTDM](https://pyradiomics.readthedocs.io/en/latest/features.html#module-radiomics.ngtdm) (Neighborhood Gray Tone Difference Matrix)
     - [GLDM](https://pyradiomics.readthedocs.io/en/latest/features.html#module-radiomics.gldm) (Gray Level Dependence Matrix)
-    - [Summary table](https://gitlab.com/JoaoPeriquito/volumetry_paper/-/wikis/Texture-features-PyRadiomics)
+    - [Summary table](https://github.com/JoaoPeriquito/Volumetric-Paper/wiki/Texture-features-PyRadiomics)
 - **Inputs**:
     - Shape features:
         - The MRI Dixon water map images
