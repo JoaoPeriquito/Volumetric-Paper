@@ -8,7 +8,7 @@ This repository contains all materials related to the paper:
 - 📊 [Final Data](https://drive.google.com/drive/u/1/folders/1-g3WZZKO1y1eQyAiZwgaofX2Zd4s35cT)
 - 📈 [Figures](https://drive.google.com/drive/u/1/folders/1hV_f3ofe-5JJVM9FZHp_YBZyT-5HmRJ8) and [plots](https://drive.google.com/drive/u/1/folders/1iAzip3OsMUd6ud0WxBglLW4eD9gVv0Ea)
 - 🧮 Code used for analysis
-- 🧠 [Current Hypothesis](https://gitlab.com/JoaoPeriquito/volumetry_paper/-/wikis/Hypotheses-Log)
+- 🧠 [Current Hypothesis]((https://github.com/JoaoPeriquito/Volumetric-Paper/wiki/Hypotheses-Log)
 - 📚 Supplementary materials:
     - [Joao's presentation](https://docs.google.com/presentation/d/19h2q0bE5W7bgc5uiPAqjPcGWYzESoKZ_/edit?usp=sharing&ouid=106782107287624600181&rtpof=true&sd=true) iBEAt meeting (15/05/2025)
 
